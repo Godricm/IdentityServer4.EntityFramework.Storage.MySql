@@ -1,0 +1,2 @@
+# IdentityServer4.EntityFramework.Storage.MySql
+identityserver的mysql脚本
